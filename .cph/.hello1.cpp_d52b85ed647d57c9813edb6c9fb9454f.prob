@@ -1,0 +1,1 @@
+{"name":"Local: hello1","url":"c:\\Users\\Asus\\Documents\\coding_files\\c_plus_plus\\hello1.cpp","tests":[{"id":1719061290899,"input":"7\n1 2 0 0 2 2 1","output":"0 0 1 1 2 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\coding_files\\c_plus_plus\\hello1.cpp","group":"local","local":true}
