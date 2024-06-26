@@ -1,42 +1,13 @@
+// codeforces round 954 problem A code
+// creator - Ishanya Sharma
+
+
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp> // Common file
 #include <ext/pb_ds/tree_policy.hpp> // Including tree_order_statistics_node_update
 
 using namespace std;
 using namespace __gnu_pbds;
-
-// void solve() {
-//     int n, m;
-//     cin >> n >> m;
-//     vector <pair<int, int>> v[n][m];
-//     for (int i = 0; i < n; i ++) {
-//         for (int j = 0; j < m; j ++) {
-//             cin >> v.push_back(make_pair{i , j});
-//         }
-//     }
-// }
-
-// int main () {
-//     ios_base::sync_with_stdio(false);
-//     cin.tie(0);
-    
-//     int tt;
-//     cin >> tt;
-
-//     while (tt--) {
-//         solve();
-//     }
-
-//     return 0;
-// }
-
-
-
-
-// #include <iostream>
-// #include <vector>
-// #include <algorithm>
-// using namespace std;
 
 int main() {
     int t; 
